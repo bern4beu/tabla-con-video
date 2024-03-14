@@ -1,0 +1,12 @@
+table {
+  border: pink 5px ridge;
+  background-color: beige;
+}
+
+blockquote {
+  padding: 3px 10px;
+  border: rgb(178, 132, 216) 5px solid;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+}
